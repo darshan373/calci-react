@@ -1,0 +1,11 @@
+.buttons-container{
+    display: grid;
+    grid-template-columns: repeat(4,50px);
+    row-gap: 10px;
+    column-gap: 10px;
+   justify-items: center;
+  }
+
+  .btn{
+    color: grey;
+  }
